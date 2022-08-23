@@ -3,7 +3,7 @@ Simple visual ping monitor utility to watch multiple hosts simultaneously.  I fo
 
 ## To install:
 
-Developed under Ubuntu Linux.  No idea if there are compatibility issues with other distributions.  uses fping under the hood.
+Developed under Ubuntu Linux.  No idea if there are compatibility issues with other distributions.  Uses fping under the hood.
 
 ```
 sudo apt install fping
