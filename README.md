@@ -3,9 +3,10 @@ Simple visual ping monitor utility to watch multiple hosts simultaneously.  I fo
 
 ## To install:
 
-Developed under Ubuntu Linux.  No idea if there are compatibility issues with other distributions.
+Developed under Ubuntu Linux.  No idea if there are compatibility issues with other distributions.  uses fping under the hood.
 
 ```
+sudo apt install fping
 chmod +x bping.sh
 sudo cp bping.sh /usr/bin/bping
 ```
