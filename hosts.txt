@@ -1,0 +1,16 @@
+COMP-WC-11.net.ku.edu
+ELLX-WC-11.net.ku.edu
+COMP-WC-12.net.ku.edu
+ELLX-WC-12.net.ku.edu
+COMP-WC-21.net.ku.edu
+ELLX-WC-21.net.ku.edu
+COMP-WC-22.net.ku.edu
+ELLX-WC-22.net.ku.edu
+COMP-WC-31.net.ku.edu
+ELLX-WC-31.net.ku.edu
+RC-WC-01.net.ku.edu
+RC-WC-02.net.ku.edu
+CCKC-WC-3A-01.net.ku.edu
+CCKC-WC-3A-02.net.ku.edu
+AMM-COMP-01.net.ku.edu
+AMM-COMP-02.net.ku.edu
